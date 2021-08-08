@@ -1,0 +1,7 @@
+::ng-deep :root{
+  background-color: antiquewhite;
+
+  --standard-min-width: 10cm;
+  --standard-max-width: 25cm;
+}
+

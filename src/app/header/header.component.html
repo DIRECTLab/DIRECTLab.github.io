@@ -1,0 +1,11 @@
+<div class="complete_header">
+
+  <img class="header_image" [src]="header_image">
+
+  <div class="header_link_span">
+    <div class="linkItem" *ngFor="let link of links" (click)="jump(link)">
+      {{link}}
+    </div>
+  </div>
+
+</div>
