@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
-import { DataService, Project } from '../data.service';
+import { DataService, Project } from 'src/app/data.service';
 
 @Component({
-  selector: 'app-projects',
-  templateUrl: './projects.component.html',
-  styleUrls: ['./projects.component.css']
+  selector: 'app-all-research',
+  templateUrl: './all-research.component.html',
+  styleUrls: ['./all-research.component.css']
 })
-export class ProjectsComponent implements OnInit {
+export class AllResearchComponent implements OnInit {
   projects: Project[] = [];
 
   constructor(private dataService: DataService) {
