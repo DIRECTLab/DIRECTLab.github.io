@@ -3,7 +3,7 @@
 
   top: 0;
   bottom: 0;
-  left: 0;
+  /* left: 0; */
 
   min-width: var(--nav-width);
   width: var(--nav-width);

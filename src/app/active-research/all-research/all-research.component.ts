@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { DataService, Project } from 'src/app/data.service';
+import { DataService } from 'src/app/data.service';
+import { Research } from '../research';
 
 @Component({
   selector: 'app-all-research',
@@ -7,7 +8,7 @@ import { DataService, Project } from 'src/app/data.service';
   styleUrls: ['./all-research.component.css']
 })
 export class AllResearchComponent implements OnInit {
-  projects: Project[] = [];
+  allResearch: Research[] = [];
 
   constructor(private dataService: DataService) {
   }
@@ -17,13 +18,11 @@ export class AllResearchComponent implements OnInit {
   }
 
   getProjects(): void {
-    this.dataService.getProjects().subscribe(
-      projects => this.projects = projects
-    )
+    this.allResearch = this.dataService.getAllResearch();
   }
 
-  onClick(project: Project) {
-    console.log(project);
+  onClick(research: Research) {
+    console.log(research);
   }
 
 }

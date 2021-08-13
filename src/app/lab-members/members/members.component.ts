@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Member, DataService } from 'src/app/data.service';
+import { DataService } from 'src/app/data.service';
+import { Member } from '../member';
 @Component({
   selector: 'app-members',
   templateUrl: './members.component.html',
@@ -16,9 +17,7 @@ export class MembersComponent implements OnInit {
   }
 
   getMembers() {
-    this.dataService.getMembers().subscribe(
-      members => this.members = members
-    )
+    this.members = this.dataService.getMembers();
   }
 
   onClick(member: Member) {
