@@ -10,7 +10,7 @@ export class HeaderComponent implements OnInit {
   header_image = "assets/Logos/DIRECT Lab Logo-A.png"
   links = [
     "Home",
-    "Projects",
+    "Active Research",
     "Members"
   ]
 
@@ -26,8 +26,8 @@ export class HeaderComponent implements OnInit {
     if (link === "Home") {
       this.router.navigate(["home"])
     }
-    else if (link === "Projects") {
-      this.router.navigate(["projects"])
+    else if (link === "Active Research") {
+      this.router.navigate(["all_research"])
     }
     else if (link === "Members") {
       this.router.navigate(["members"])

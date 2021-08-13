@@ -5,24 +5,20 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
-import { ProjectsComponent } from './projects/projects.component';
-import { MembersComponent } from './members/members.component';
-import { ProjectComponent } from './project/project.component';
-import { MemberComponent } from './member/member.component';
+import { ActiveResearchModule } from './active-research/active-research.module';
+import { LabMembersModule } from './lab-members/lab-members.module';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     HomeComponent,
-    ProjectsComponent,
-    MembersComponent,
-    ProjectComponent,
-    MemberComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ActiveResearchModule,
+    LabMembersModule
   ],
   providers: [],
   bootstrap: [AppComponent]
