@@ -10,12 +10,14 @@
 
   margin-top: .5rem;
   margin-bottom: .5rem;
+  padding: 0;
   display: flex;
   flex-direction: column;
   background-color: var(--special-overlay-color);
 
-  border: var(--normal-border);
   box-shadow: var(--normal-box-shadow);
+
+  color: var(--special-overlay-color-alt);
 }
 
 .header_image{
@@ -24,6 +26,7 @@
   padding: .5rem;
 
   box-sizing: border-box;
+  background-color: var(--highlight-overlay-color);
 }
 
 .header_link_span{
@@ -38,10 +41,15 @@
   text-align: left;
 
   padding: 1rem 0;
+  font-size: 1.1rem;
+  font-weight: bold;
 }
 
 .navBreak{
   width: 100%;
-  border-top: 1px solid black;
+  border-top: 1px solid var(--special-overlay-color-alt);
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
 
 }

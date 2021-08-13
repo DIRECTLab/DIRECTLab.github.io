@@ -1,16 +1,20 @@
 ::ng-deep :root{
 
-  background-color: #494e6b;
+  background-color: 	 #0F2439;
 
-  --normal-overlay-color:#d5d5d5;
-  --special-overlay-color: #E9E9E9;
+  color: #1E252B;
+  font-family: sans-serif;
+
+  --normal-overlay-color:  #E9ECEF;
+  --special-overlay-color: #384660;
+  --special-overlay-color-alt:  #DEE2E6;
+  --highlight-overlay-color: #DEE2E6;
 
   --normal-width: 90%;
   --standard-min-width: 10cm;
   --standard-max-width: 25cm;
 
   --nav-width: 7rem;
-
   --small-max-width: 20cm;
 
   --normal-border-radius: 1rem;
