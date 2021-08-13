@@ -1,1 +1,10 @@
-<p>members works!</p>
+<div class="data_holder">
+  <div class="data_item" *ngFor="let member of members" (click)="onClick(member)">
+    <img class="inline_image" src="{{member.image}}">
+
+    <div class="item_row">
+      <div class="name">{{member.name}}</div>
+      <div class="detail">{{member.simple_bio}}</div>
+    </div>
+  </div>
+</div>

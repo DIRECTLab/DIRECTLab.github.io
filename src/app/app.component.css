@@ -1,7 +1,76 @@
 ::ng-deep :root{
-  background-color: antiquewhite;
 
+  background-color: #9099A2;
+
+  --normal-overlay-color:#d5d5d5;
+  --special-overlay-color: #E9E9E9;
+
+  --normal-width: 90%;
   --standard-min-width: 10cm;
   --standard-max-width: 25cm;
+
+  --nav-width: 7rem;
+
+  --small-max-width: 20cm;
+
+  --normal-border-radius: 1rem;
+  --normal-border: 1px solid black;
+
+  --normal-margin: 2rem;
+
+  --normal-box-shadow: .1rem .1rem .1rem rgba(0, 0, 0, 0.438);
 }
 
+::ng-deep .data_holder{
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+
+  width: var(--normal-width);
+  max-width: var(--standard-max-width);
+
+
+  background-color: var(--normal-overlay-color);
+
+
+  border: var(--normal-border);
+}
+
+::ng-deep .data_item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  padding: .5rem;
+}
+
+::ng-deep .inline_image{
+  object-fit: contain;
+
+  min-width: 5rem;
+  max-width: 5rem;
+  max-height: 5rem;
+
+  box-sizing: border-box;
+  padding: .25rem;
+}
+
+::ng-deep .item_row{
+  display: flex;
+  flex-direction: column;
+
+  padding: .5rem 0
+}
+
+::ng-deep .name{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+::ng-deep .description{
+  font-weight: 1rem;
+}
+
+.content{
+  margin-left:  var(--nav-width);
+}

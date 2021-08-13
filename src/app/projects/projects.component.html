@@ -1,1 +1,10 @@
-<p>projects works!</p>
+<div class="data_holder">
+  <div class="data_item" *ngFor="let project of projects" (click)="onClick(project)">
+    <img class="inline_image" src="{{project.image}}">
+
+    <div class="item_row">
+      <div class="name">{{project.name}}</div>
+      <div class="detail">{{project.simple_description}}</div>
+    </div>
+  </div>
+</div>
