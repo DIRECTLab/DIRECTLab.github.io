@@ -28,16 +28,14 @@
 ::ng-deep .data_holder{
   display: flex;
   flex-direction: column;
-  margin: auto;
 
+  margin: auto;
   width: var(--normal-width);
   max-width: var(--standard-max-width);
 
-
   background-color: var(--normal-overlay-color);
-
-
   border: var(--normal-border);
+
 }
 
 ::ng-deep .data_item{
@@ -46,6 +44,7 @@
   align-items: center;
 
   padding: .5rem;
+  overflow: auto;
 }
 
 ::ng-deep .inline_image{
@@ -77,4 +76,9 @@
 
 .content{
   margin-left:  var(--nav-width);
+}
+
+.entirePage{
+  max-width: calc(var(--nav-width) + var(--standard-max-width));
+  margin: auto;
 }
