@@ -1,4 +1,3 @@
-
 export class Member {
   static nextId = 0
 

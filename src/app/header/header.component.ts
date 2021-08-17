@@ -21,8 +21,6 @@ export class HeaderComponent implements OnInit {
   }
 
   jump(link: string) {
-    console.log("here")
-    console.log(link)
     if (link === "Home") {
       this.router.navigate(["home"])
     }
