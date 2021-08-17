@@ -16,9 +16,10 @@ import { LabMembersModule } from './lab-members/lab-members.module';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule,
     ActiveResearchModule,
-    LabMembersModule
+    LabMembersModule,
+
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
