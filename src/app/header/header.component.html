@@ -1,11 +1,22 @@
-<div class="complete_header">
+<div *ngIf="mode === 'left'" class="complete_header_left">
+  <img class="header_image_left" [src]="header_image">
 
-  <img class="header_image" [src]="header_image">
-
-  <div class="header_link_span">
-    <div class="linkItem" *ngFor="let link of links" (click)="jump(link)">
+  <div class="header_link_span_left">
+    <div class="linkItemLeft" *ngFor="let link of links" (click)="jump(link)">
       {{link}}
       <hr class="navBreak">
+    </div>
+  </div>
+
+</div>
+
+
+<div *ngIf="mode === 'top'" class="complete_header_top">
+  <img class="header_image_top" [src]="header_image">
+
+  <div class="header_link_span_top">
+    <div class="linkItemTop" *ngFor="let link of links" (click)="jump(link)">
+      {{link}}
     </div>
   </div>
 

@@ -15,6 +15,8 @@
   --standard-max-width: 25cm;
 
   --nav-width: 7rem;
+  --nav-height:10rem;
+
   --small-max-width: 20cm;
 
   --normal-border-radius: 1rem;
@@ -74,8 +76,12 @@
   font-weight: 1rem;
 }
 
-.content{
+.left_content{
   margin-left:  var(--nav-width);
+}
+
+.top_content{
+  margin-top:  var(--nav-height);
 }
 
 .entirePage{
