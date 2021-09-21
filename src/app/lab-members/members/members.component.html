@@ -1,6 +1,10 @@
 <div class="data_holder">
   <div class="data_item" *ngFor="let member of members" (click)="onClick(member)">
-    <img class="inline_image" src="{{member.image}}">
+
+    <div class="inline_carousel_container">
+      <shared-carousel [items]="[member.image]">
+      </shared-carousel>
+    </div>
 
     <div class="item_row">
       <div class="name">{{member.name}}</div>

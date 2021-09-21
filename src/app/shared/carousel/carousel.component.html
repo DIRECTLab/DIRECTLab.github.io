@@ -1,0 +1,11 @@
+<div class="carousel" (mouseover)="this.allowed_auto_rotate=false" (mouseout)="this.allowed_auto_rotate=true">
+  <div class="carousel_item">
+    <div class="number_label">{{index+1}} / {{items.length}}</div>
+    <div class="image_container">
+      <img src={{cur_image}} class="carousel_image">
+    </div>
+  </div>
+
+  <div class="prev" (click)="rotate(-1)">&#10094;</div>
+  <div class="next" (click)="rotate(1)">&#10095;</div>
+</div>

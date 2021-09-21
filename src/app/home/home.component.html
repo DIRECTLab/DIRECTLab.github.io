@@ -1,13 +1,6 @@
-<div class="carousel" (mouseover)="this.allowed_auto_rotate=false" (mouseout)="this.allowed_auto_rotate=true">
-  <div class="carousel_item">
-    <div class="number_label">{{index+1}} / {{items.length}}</div>
-    <div class="image_container">
-      <img src={{cur_image}} class="carousel_image">
-    </div>
-  </div>
-
-  <div class="prev" (click)="rotate(-1)">&#10094;</div>
-  <div class="next" (click)="rotate(1)">&#10095;</div>
+<div class="home_carousel_container">
+  <shared-carousel [items]="['assets/Logos/DIRECT Lab Logo-A.png', 'assets/Logos/DIRECT Lab Logo-B.png', 'assets/Logos/DIRECT Lab Logo-C.png',]">
+  </shared-carousel>
 </div>
 
 <div class="uppermost_text">
@@ -17,9 +10,6 @@
   scelerisque. Curabitur ac viverra leo, at efficitur velit. Curabitur ultrices elit lacus, in blandit arcu interdum at.
   Ut iaculis ut massa vitae varius. Morbi eget vehicula ante. Maecenas lacinia consectetur diam, eget iaculis lectus
   tincidunt ac.
-</div>
-
-<div class="standard_text">
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed orci tempor, tincidunt tellus quis, elementum
   nisi. Nunc tempor, tortor ut venenatis faucibus, nisl risus luctus felis, at mollis quam lectus nec odio. Praesent
   egettempus risus, et vehicula orci. Nam id tincidunt arcu. Maecenas rhoncus enim id nunc sollicitudin, vel rutrum nisi
@@ -38,3 +28,4 @@
   sagittis. Donec augue ipsum, mattis vel porta non, faucibus ut erat. Vivamus gravida semper ante id iaculis. Proin in
   faucibus tellus.
 </div>
+

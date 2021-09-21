@@ -1,91 +1,28 @@
-
-.carousel{
-  position: relative;
-
-  width: var(--normal-width);
-  max-width: var(--standard-max-width);
-
-
-  border: var(--normal-border);
-
-
-  box-sizing: border-box;
-  margin: auto;
-  margin-top: var(--normal-margin);
-  margin-bottom: var(--normal-margin);
-
-
-  background-color: var(--highlight-overlay-color);
+.home_carousel_container {
+    width: var(--normal-width);
+    max-width: var(--standard-max-width);
+    margin: auto;
 }
 
-
-.number_label{
-  position: absolute;
-  top: 0;
-
-  margin-left: .25rem;
-  padding: .25rem;
+.uppermost_text {
+    width: var(--normal-width);
+    max-width: var(--standard-max-width);
+    border: var(--normal-border);
+    /* border-radius: var(--normal-border-radius); */
+    background-color: var(--normal-overlay-color);
+    box-sizing: border-box;
+    margin: auto;
+    padding: .5rem;
+    margin-bottom: var(--normal-margin);
 }
 
-.image_container{
-  display: flex;
-
-  max-width: 100%;
-  height:10rem;
-
-  align-items: center;
-  justify-content: center;
-}
-
-.carousel_image{
-  object-fit: contain;
-  max-width: 100%;
-  max-height: 100%;
-}
-
-
-.next, .prev{
-  position: absolute;
-
-  top:50%;
-
-  margin-top: -.5rem;
-  padding-left: .25rem;
-  padding-right: .25rem;
-}
-
-.next{
-  right: 0;
-}
-
-
-.uppermost_text{
-  width: var(--normal-width);
-  max-width: var(--standard-max-width);
-
-
-  border: var(--normal-border);
-  border-radius: var(--normal-border-radius);
-  background-color: var(--normal-overlay-color);
-
-  box-sizing: border-box;
-  margin: auto;
-  padding: .5rem;
-
-  margin-bottom: var(--normal-margin);
-
-
-}
-
-.standard_text{
-  width: var(--normal-width);
-  max-width: var(--small-max-width);
-
-  border: var(--normal-border);
-  border-radius: var(--normal-border-radius);
-  background-color: var(--normal-overlay-color);
-
-  box-sizing: border-box;
-  margin: auto;
-  padding: .5rem;
+.standard_text {
+    width: var(--normal-width);
+    max-width: var(--small-max-width);
+    border: var(--normal-border);
+    /* border-radius: var(--normal-border-radius); */
+    background-color: var(--normal-overlay-color);
+    box-sizing: border-box;
+    margin: auto;
+    padding: .5rem;
 }

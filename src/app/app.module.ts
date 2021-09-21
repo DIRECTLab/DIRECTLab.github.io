@@ -8,6 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { ActiveResearchModule } from './active-research/active-research.module';
 import { LabMembersModule } from './lab-members/lab-members.module';
 
+import { SharedModule } from './shared/shared.module';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +19,7 @@ import { LabMembersModule } from './lab-members/lab-members.module';
     BrowserModule,
     ActiveResearchModule,
     LabMembersModule,
-
+    SharedModule,
     AppRoutingModule,
   ],
   providers: [],

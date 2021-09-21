@@ -7,7 +7,7 @@ import { Router } from '@angular/router';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  header_image = "assets/Logos/DIRECT Lab Logo-A.png"
+  header_image = "assets/Logos/DIRECT Lab Logo-C.png"
   links = [
     "Home",
     "Active Research",

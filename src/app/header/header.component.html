@@ -12,12 +12,10 @@
 
 
 <div *ngIf="mode === 'top'" class="complete_header_top">
-  <img class="header_image_top" [src]="header_image">
 
-  <div class="header_link_span_top">
-    <div class="linkItemTop" *ngFor="let link of links" (click)="jump(link)">
-      {{link}}
-    </div>
+  <img class="header_image_top" [src]="header_image">
+  <div class="linkItemTop" *ngFor="let link of links" (click)="jump(link)">
+    {{link}}
   </div>
 
 </div>

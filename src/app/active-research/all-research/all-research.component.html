@@ -1,6 +1,10 @@
 <div class="data_holder">
   <div class="data_item" *ngFor="let research of allResearch" (click)="onClick(research)">
-    <img class="inline_image" src="{{research.image}}">
+
+    <div class="inline_carousel_container">
+      <shared-carousel [items]="[research.image]">
+      </shared-carousel>
+    </div>
 
     <div class="item_row">
       <div class="name">{{research.name}}</div>

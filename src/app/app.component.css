@@ -1,90 +1,74 @@
-::ng-deep :root{
-
-  background-color: 	 #0F2439;
-
-  color: #1E252B;
-  font-family: sans-serif;
-
-  --normal-overlay-color:  #E9ECEF;
-  --special-overlay-color: #384660;
-  --special-overlay-color-alt:  #DEE2E6;
-  --highlight-overlay-color: #DEE2E6;
-
-  --normal-width: 90%;
-  --standard-min-width: 10cm;
-  --standard-max-width: 25cm;
-
-  --nav-width: 7rem;
-  --nav-height:10rem;
-
-  --small-max-width: 20cm;
-
-  --normal-border-radius: 1rem;
-  --normal-border: 1px solid black;
-
-  --normal-margin: 2rem;
-
-  --normal-box-shadow: .1rem .1rem .1rem rgba(0, 0, 0, 0.438);
+::ng-deep :root {
+    background-color: #0F2439;
+    color: #1E252B;
+    font-family: sans-serif;
+    --normal-overlay-color: #E9ECEF;
+    --special-overlay-color: #384660;
+    --special-overlay-color-alt: #DEE2E6;
+    --highlight-overlay-color: #DEE2E6;
+    --normal-width: 90%;
+    --standard-min-width: 10cm;
+    --standard-max-width: 35cm;
+    --nav-width: 10rem;
+    --nav-height: 5rem;
+    --inline-width: 10rem;
+    --inline-height: 10rem;
+    --small-max-width: 20cm;
+    --normal-border-radius: 1rem;
+    --normal-border: 1px solid black;
+    --normal-margin: 2rem;
+    --normal-box-shadow: .1rem .1rem .1rem rgba(0, 0, 0, 0.438);
+    --z-index-above: 10;
 }
 
-::ng-deep .data_holder{
-  display: flex;
-  flex-direction: column;
-
-  margin: auto;
-  width: var(--normal-width);
-  max-width: var(--standard-max-width);
-
-  background-color: var(--normal-overlay-color);
-  border: var(--normal-border);
-
+::ng-deep .data_holder {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: var(--normal-width);
+    max-width: var(--standard-max-width);
+    background-color: var(--normal-overlay-color);
+    border: var(--normal-border);
 }
 
-::ng-deep .data_item{
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-
-  padding: .5rem;
-  overflow: auto;
+::ng-deep .data_item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-::ng-deep .inline_image{
-  object-fit: contain;
-
-  min-width: 5rem;
-  max-width: 5rem;
-  max-height: 5rem;
-
-  box-sizing: border-box;
-  padding: .25rem;
+::ng-deep .inline_carousel_container {
+    flex: none;
+    height: var(--inline-height);
+    max-height: var(--inline-height);
+    width: var(--inline-width);
+    max-width: var(--inline-width);
+    padding: 1rem;
 }
 
-::ng-deep .item_row{
-  display: flex;
-  flex-direction: column;
-
-  padding: .5rem 0
+::ng-deep .item_row {
+    display: flex;
+    flex-direction: column;
 }
 
-::ng-deep .name{
-  font-size: 1.5rem;
-  font-weight: bold;
+::ng-deep .name {
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
-::ng-deep .description{
-  font-weight: 1rem;
+::ng-deep .description {
+    font-weight: 1rem;
 }
 
-.left_content{
-  margin-left:  var(--nav-width);
+.left_content {
+    padding-left: var(--nav-width);
 }
 
-.top_content{
-  margin-top:  var(--nav-height);
+.top_content {
+    padding-top: var(--nav-height);
 }
 
-.entirePage{
-  max-width: calc(var(--nav-width) + var(--standard-max-width));
-  margin: auto;
+.entirePage {
+    max-width: calc(var(--nav-width) + var(--standard-max-width));
+    margin: auto;
 }
