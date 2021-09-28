@@ -10,7 +10,8 @@
     --standard-min-width: 10cm;
     --standard-max-width: 35cm;
     --nav-width: 10rem;
-    --nav-height: 5rem;
+    --nav-height: 10rem;
+    --nav-height-actual: var(--nav-height);
     --inline-width: 10rem;
     --inline-height: 10rem;
     --small-max-width: 20cm;
@@ -60,12 +61,39 @@
     font-weight: 1rem;
 }
 
+::ng-deep .home_carousel_container {
+    width: var(--normal-width);
+    max-width: var(--standard-max-width);
+    margin: auto;
+}
+
+::ng-deep .uppermost_text {
+    width: var(--normal-width);
+    max-width: var(--standard-max-width);
+    border: var(--normal-border);
+    background-color: var(--normal-overlay-color);
+    box-sizing: border-box;
+    margin: auto;
+    padding: .5rem;
+    margin-bottom: var(--normal-margin);
+}
+
+::ng-deep .standard_text {
+    width: var(--normal-width);
+    max-width: var(--small-max-width);
+    border: var(--normal-border);
+    background-color: var(--normal-overlay-color);
+    box-sizing: border-box;
+    margin: auto;
+    padding: .5rem;
+}
+
 .left_content {
     padding-left: var(--nav-width);
 }
 
 .top_content {
-    padding-top: var(--nav-height);
+    padding-top: var(--nav-height-actual);
 }
 
 .entirePage {

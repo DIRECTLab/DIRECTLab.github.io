@@ -41,6 +41,11 @@
     background-color: var(--highlight-overlay-color);
 }
 
+.next:hover,
+.prev:hover {
+    cursor: pointer;
+}
+
 .next {
     right: 0;
 }

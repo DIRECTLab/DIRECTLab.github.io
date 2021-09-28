@@ -11,7 +11,9 @@ export class HeaderComponent implements OnInit {
   links = [
     "Home",
     "Active Research",
-    "Members"
+    "Members",
+    "Outreach Events",
+    "Contact Us"
   ]
 
   @Input() mode = '';
@@ -30,6 +32,11 @@ export class HeaderComponent implements OnInit {
     }
     else if (link === "Members") {
       this.router.navigate(["members"])
+    }
+    else if (link == "Outreach Events") {
+      this.router.navigate(["outreach"])
+    } else if (link == "Contact Us") {
+      this.router.navigate(["contact"])
     }
   }
 
