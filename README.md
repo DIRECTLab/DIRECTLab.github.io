@@ -10,7 +10,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Build
 PREVIOUSLY: previously we used the branch active site to hold the published site, I didnt like this, we now just use the main branch
 To build and serve on gitlab github pages, use the main branch, and get it up to date with whatever version of the website you want to serve, then run the command
-  ng build --output-path docs --base-href /website/
+  ng build --output-path docs --base-href /
 Once this is done, in the docs folder, make a copy of the index.html file and rename it to 404.html. 
 
 ## About
