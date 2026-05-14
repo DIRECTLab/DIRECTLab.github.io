@@ -42,11 +42,5 @@ logo_image = "logo.png"
     url = "/publications/"
     weight = 40
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 50
-
 [markup.goldmark.renderer]
 unsafe = true
