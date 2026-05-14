@@ -1,3 +1,52 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://directlab.github.io/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'directlab@UtahState'
+theme = 'risotto'
+
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "tokyo-night-light"
+
+[params.about]
+title = "DIRECT Lab"
+description = "Decision Intelligence for Robotics, Embedded and Cooperative Technologies (DIRECT) Lab at Utah State University. Located at ENINV210"
+logo_image = "logo.png"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "people"
+    name = "People"
+    url = "/people/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/publications/"
+    weight = 40
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+
+[markup.goldmark.renderer]
+unsafe = true

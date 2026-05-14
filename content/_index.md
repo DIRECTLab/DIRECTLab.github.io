@@ -1,0 +1,32 @@
++++
+title = "Home"
++++
+
+![](/spotfail.jpg)
+
+# Mission and Purpose
+
+DIRECT Lab strives to improve quality of life by developing intelligent systems capable of assisting humans operating in a complex and uncertain world.
+
+# About the Lab
+
+USU’s DIRECT lab covers a vast swath of research: Decision Intelligence, Robotics, Electrified Transportation, Embedded Systems, and Cooperative Technologies. Founded by Dr. Mario, the lab strives to expand and unite research in applied AI, especially for electrified transportation and autonomous systems. Almost everything we do, we build software: we apply decision intelligence and software development to the other fields. Current research is applied in financial markets, power electronics, transportation infrastructure, human behavior, and robotics. The DIRECT lab also focuses on outreach and providing opportunities for underserved communities to participate in research.
+
+
+**Some of our primary Reserach Topics and Activities include:**
+
+## Decision Intelligence
+
+Understanding principles that allow human-like decision making in uncertain environments with limited information
+
+## Robotics
+
+Design of intelligence hierarchy and architectures to quickly learn and adapt on all types of robots
+
+## Electrified Transportation
+
+Intelligent clean energy autonomy for transportation, cities, and infrastructure
+
+## Outreach
+
+Building ties to communities and future researchers
