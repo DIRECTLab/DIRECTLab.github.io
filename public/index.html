@@ -64,7 +64,11 @@
 </header>
 
             <section class="page__body">
-    <p><img src="/spotfail.jpg" alt=""></p>
+    <img id="cover-image" style="width:100%">
+<script>
+  var images = ["/spotfail.jpg", "sub.jpg", "friends.jpg", "arm.jpg", "explore.jpg", "uav.jpg"];
+  document.getElementById("cover-image").src = images[Math.floor(Math.random() * images.length)];
+</script>
 <h1 id="mission-and-purpose">Mission and Purpose</h1>
 <p>DIRECT Lab strives to improve quality of life by developing intelligent systems capable of assisting humans operating in a complex and uncertain world.</p>
 <h1 id="about-the-lab">About the Lab</h1>
