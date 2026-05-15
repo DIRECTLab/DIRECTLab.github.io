@@ -4,7 +4,7 @@ title = "Home"
 
 <img id="cover-image" style="width:100%">
 <script>
-  var images = ["spotfail.jpg","sub.jpg","friends.jpg","arm.jpg","explore.jpg","uav.jpg","baret.jpg","jacob-graduation.jpg","potluck.jpg"];
+  var images = ["/spotfail.jpg", "sub.jpg", "friends.jpg", "arm.jpg", "explore.jpg", "uav.jpg"];
   document.getElementById("cover-image").src = images[Math.floor(Math.random() * images.length)];
 </script>
 
