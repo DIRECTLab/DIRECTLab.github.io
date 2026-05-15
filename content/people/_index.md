@@ -9,7 +9,7 @@ We value diligent effort, with a healthy dose of fun. If you have an interest in
 
 ![](/mario.jpg)
 
-**Dr. Mario Harper** founded the DIRECT lab in 2021. He has experience across a swath of domains including Aritifical Intelligence, Robotics, Power Systems, Financial Technologies, and pretty much everything else. Mario usually wears a beret, which the photo above unfortunately fails to capture.
+**Dr. Mario Harper** founded the DIRECT lab in 2021. He has experience across a swath of domains including Artificial Intelligence, Robotics, Power Systems, Financial Technologies, and pretty much everything else. Mario usually wears a beret, which the photo above unfortunately fails to capture.
 
 _Contact:_ mario.harper@usu.edu
 
@@ -37,6 +37,16 @@ _fun fact_: Isaac can unicycle
 
 _Contact:_ isaac.peterson@usu.edu
 
+![](/chandler.JPEG)
+
+**Chandler Justice** is probably doing a PhD in Electric Engineering. Chandler focuses on robot swarming and advancements in Multi-agent robot autonomy. Chandler also works on electrified transportation projects pertaining to energy systems and electric aviation.
+
+_interests:_ reinforcement learning, vehicles, rock climbing, hiking
+
+_fun fact:_ Chandler is the 2nd fastest typist in the lab (120 WPM).
+
+_contact:_ chandler.justice@usu.edu
+
 # Master's Students
 
 ![](/nate.jpg)
@@ -63,7 +73,7 @@ _contact:_ maggie.michelsen@usu.edu
 
 ![](/nash.JPG)
 
-**Nash Bryce** is actively willing a Bachelors in Electricial Engineering. Nash works on the activity intelligence team focusing on collecting data for airplane positions and building tools to parse that data into useable context for LLMs.
+**Nash Bryce** is actively willing a Bachelors in Electrical Engineering. Nash works on the activity intelligence team focusing on collecting data for airplane positions and building tools to parse that data into useable context for LLMs.
 
 _interests:_ automation, embedded systems, horticulture, videogames, and camping. 
 
@@ -91,4 +101,33 @@ _fun fact:_ The background picture on Daxton's computer is of Big Chungus
 
 _contact:_ a02295257@aggies.usu.edu
 
+![](/ammon.png)
 
+**Ammon Hunter** is going for gold in his pursuit of a Bachelors in Computer Science. Ammon currently focuses on iterating on SLAM algorithms for drones and is involved in multi-agent SLAM project currently in progress.
+
+_interests:_ Robots, dones, AI
+
+_fun fact:_ Ammon enjoys competing at rock climbing competitions (bouldering)
+
+_contact:_ a02356342@usu.edu
+
+
+# Alumni
+
+![](/christopher.jpeg)
+
+**Christopher Allred** completed his PhD in Computer Science in December 2025. His research focused on Multi-agent systems, reinforcement learning, and ballistic motions of legged robots. Christopher now works at Alpha-Z as a roboticist.
+
+_interests:_ Robotic Intelligence, Multi-Agent Reinforcement Learning, Legged Robotics, and Simulation 
+
+_fun fact:_ Christopher loves watermelon
+
+_contact:_ christopher.allred@usu.edu
+
+![](/zac.jpg)
+
+**Zac Maughan** Completed his Bachelors in Computer Engineering in May 2026. Zac played a "flex" role in the lab and filled in for research projects as needed including CARLA, DREAMS, and the Rosbots (rovers). Zac now works as a Software Engineer at OrthoSelect.
+
+_interests:_ The outdoors, sports/games, learning everything.
+
+_fun fact:_ Zac is the fastest man in the lab! (As of 2025)
