@@ -24,6 +24,8 @@ title = "Publications"
 
 - Allred, C., Pusey, J., & Harper, M. **[Cultivating Quadrupedal Robotic Agility: Unveiling Reinforcement Learning Dynamics with the Boosted Tree Motif Classifier](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1793351X&AN=186087153&h=KSU51Q342a6Y8tQi1MZbPrY3xlARQqFE87s0%2FUUccvp521igG18Ubxmhf3gOWakkKUyrpJkDz2vHE0m1EE9xsg%3D%3D&crl=c)**. *International Journal of Semantic Computing*, 19(1).
 
+- Allred, C., Russel, M., Harper, M., & Pusey, J. **[Methods for Multi-Terrain Classification Beyond Visual Perception](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1711&context=etd2023#page=88)**.
+
 - Allred, C., Justice, C., Scalise, R., Gu, Y., Clark, J., Harper, M., & Pusey, J. **[From Walking to Parkour: A Structured Survey of RL for Dynamic Skills in Legged Robots](https://digitalcommons.usu.edu/computer_science_stures/58/)**.
 
 ## 2024
@@ -43,6 +45,8 @@ title = "Publications"
 - Bohlourihajar, K., & Harper, M. **[Catalyzing urban health and sustainability: The impact of electric bus fleet electrification in justice 40 communities of Salt Lake County](https://ieeexplore.ieee.org/abstract/document/10485534/)**. *2024 Forum for Innovative Sustainable Transportation Systems (FISTS)*.
 
 - Lewis, B., Jones, S., Swenson, C., Moon, K., & Harper, M. **[Applying Machine Learning to Equatorial Plasma Bubble Now Casting on CubeSats](https://digitalcommons.usu.edu/smallsat/2024/all2024/36/)**.
+
+- Culver, L., Shaw, B., Matthis, W., & Harper, M. **[Bear Lake Session](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1988&context=runoff)**.
 
 ## 2023
 
