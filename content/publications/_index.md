@@ -4,80 +4,80 @@ title = "Publications"
 
 ## 2026
 
-- Al Mehadi, A., Sultana, A., Morgan, J., Harper, M., Wang, H., & Zane, R. **[Benchmarking MILP Guided BC-PPO for Grid Constrained EV Charging and V2G Charging](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2026 IEEE Green Technologies Conference*.
+- Al Mehadi, A., Sultana, A., Morgan, J., Harper, M., Wang, H., & Zane, R. **[Benchmarking MILP Guided BC-PPO for Grid Constrained EV Charging and V2G Charging](https://ieeexplore.ieee.org/abstract/document/11471624/)**. *2026 IEEE Green Technologies Conference*.
 
-- Horesh, N., Quinn, J.C., Trinko, D.A., Harper, M., Wang, H., Afridi, K.K., et al. **[The future of electrified transportation in the United States](https://doi.org/10.1109/MELE.2025.3631374)**. *IEEE Electrification Magazine*, 13(4), 6–16.
+- Horesh, N., Quinn, J.C., Trinko, D.A., Harper, M., Wang, H., Afridi, K.K., et al. **[The future of electrified transportation in the United States](https://ieeexplore.ieee.org/abstract/document/11339186/)**. *IEEE Electrification Magazine*, 13(4), 6–16.
 
 ## 2025
 
-- Justice, C., Ramsdell, M., Smith, S., Stott, N., & Harper, M. **[Electric Vehicle Charger Reservation Service](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
+- Justice, C., Ramsdell, M., Smith, S., Stott, N., & Harper, M. **[Electric Vehicle Charger Reservation Service](https://ieeexplore.ieee.org/abstract/document/11423251/)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
 
-- Justice, C., Goodrick, K., & Harper, M. **[Considering Feasibility of Electric Aircraft at a Regional Scale](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
+- Justice, C., Goodrick, K., & Harper, M. **[Considering Feasibility of Electric Aircraft at a Regional Scale](https://ieeexplore.ieee.org/abstract/document/11423585/)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
 
-- Tonks, G., Jones, T., Buxton, T., & Harper, M. **[CARLACharge: A Versatile Simulator for Wireless Charging Roadways in Diverse Urban, Highway, and High-Traffic Environments](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
+- Tonks, G., Jones, T., Buxton, T., & Harper, M. **[CARLACharge: A Versatile Simulator for Wireless Charging Roadways in Diverse Urban, Highway, and High-Traffic Environments](https://ieeexplore.ieee.org/abstract/document/11423086/)**. *2025 IEEE 28th International Conference on Intelligent Transportation Systems*.
 
-- Haight, J., Peterson, I., Allred, C., & Harper, M. **[Heterogeneous Multi-Agent Learning in Isaac Lab: Scalable Simulation for Robotic Collaboration](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems*.
+- Haight, J., Peterson, I., Allred, C., & Harper, M. **[Heterogeneous Multi-Agent Learning in Isaac Lab: Scalable Simulation for Robotic Collaboration](https://ieeexplore.ieee.org/abstract/document/11247098/)**. *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems*.
 
 - Peterson, I., Allred, C., Morrey, J., & Harper, M. **[A Framework for Scalable Heterogeneous Multi-Agent Adversarial Reinforcement Learning in IsaacLab](https://arxiv.org/abs/2510.01264)**. *arXiv preprint arXiv:2510.01264*.
 
-- Ordonez, C., Harper, M., Boylan, J.T., & Collins, E.G. Jr. **[Trajectory Planning Using Dynamics and Power Models: A Heuristics Based Approach](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. CRC Press.
+- Ordonez, C., Harper, M., Boylan, J.T., & Collins, E.G. Jr. **[Trajectory Planning Using Dynamics and Power Models: A Heuristics Based Approach](https://books.google.com/books?hl=en&lr=&id=HQZnEQAAQBAJ&oi=fnd&pg=PP1&dq=info:xgsKn3g8djIJ:scholar.google.com&ots=PgyftYr2XV&sig=4op2pYY31SMpeSY56CqSIPKvRlE)**. CRC Press.
 
-- Allred, C., Pusey, J., & Harper, M. **[Cultivating Quadrupedal Robotic Agility: Unveiling Reinforcement Learning Dynamics with the Boosted Tree Motif Classifier](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *International Journal of Semantic Computing*, 19(1).
+- Allred, C., Pusey, J., & Harper, M. **[Cultivating Quadrupedal Robotic Agility: Unveiling Reinforcement Learning Dynamics with the Boosted Tree Motif Classifier](https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=1793351X&AN=186087153&h=KSU51Q342a6Y8tQi1MZbPrY3xlARQqFE87s0%2FUUccvp521igG18Ubxmhf3gOWakkKUyrpJkDz2vHE0m1EE9xsg%3D%3D&crl=c)**. *International Journal of Semantic Computing*, 19(1).
 
-- Allred, C., Justice, C., Scalise, R., Gu, Y., Clark, J., Harper, M., & Pusey, J. **[From Walking to Parkour: A Structured Survey of RL for Dynamic Skills in Legged Robots](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**.
+- Allred, C., Justice, C., Scalise, R., Gu, Y., Clark, J., Harper, M., & Pusey, J. **[From Walking to Parkour: A Structured Survey of RL for Dynamic Skills in Legged Robots](https://digitalcommons.usu.edu/computer_science_stures/58/)**.
 
 ## 2024
 
-- Kocabas, H., Allred, C., & Harper, M. **[Efficient and Resilient Multi-Robot Exploration in Complex and Unknown Indoor Environments](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2024 Eighth IEEE International Conference on Robotic Computing (IRC)*.
+- Kocabas, H., Allred, C., & Harper, M. **[Efficient and Resilient Multi-Robot Exploration in Complex and Unknown Indoor Environments](https://ieeexplore.ieee.org/abstract/document/10818039/)**. *2024 Eighth IEEE International Conference on Robotic Computing (IRC)*.
 
-- Allred, C., Haight, J., Justice, C., Peterson, I., Scalise, R., Hromadka, T., Pusey, J., & Harper, M. **[Coordinating search with foundation models and multi-agent reinforcement learning in complex environments](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2024 Eighth IEEE International Conference on Robotic Computing (IRC)*.
+- Allred, C., Haight, J., Justice, C., Peterson, I., Scalise, R., Hromadka, T., Pusey, J., & Harper, M. **[Coordinating search with foundation models and multi-agent reinforcement learning in complex environments](https://ieeexplore.ieee.org/abstract/document/10818085/)**. *2024 Eighth IEEE International Conference on Robotic Computing (IRC)*.
 
-- Nelson, K., & Harper, M. **[POSEIDON-SAT: Data Enhancement for Optical Fishing Vessel Detection From Low-Cost Satellites](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *IEEE Transactions on Intelligent Transportation Systems*, 26(1).
+- Nelson, K., & Harper, M. **[POSEIDON-SAT: Data Enhancement for Optical Fishing Vessel Detection From Low-Cost Satellites](https://ieeexplore.ieee.org/abstract/document/10786913/)**. *IEEE Transactions on Intelligent Transportation Systems*, 26(1).
 
-- McMillen, K., Conover, J., & Harper, M. **[Electric Bus System Simulator for Optimizing and Expanding Existing Electric Bus Transport Systems](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2024 2nd International Conference on Power and Renewable Energy Engineering*.
+- McMillen, K., Conover, J., & Harper, M. **[Electric Bus System Simulator for Optimizing and Expanding Existing Electric Bus Transport Systems](https://ieeexplore.ieee.org/abstract/document/10955822/)**. *2024 2nd International Conference on Power and Renewable Energy Engineering*.
 
-- Maheshwarkar, A., Geary, B., Harper, M., & Petruzza, S. **[A Comprehensive and Interactive Visualization Tool to Support Equitable Adoption of Electrified Transportation](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2024 IEEE 27th International Conference on Intelligent Transportation Systems*.
+- Maheshwarkar, A., Geary, B., Harper, M., & Petruzza, S. **[A Comprehensive and Interactive Visualization Tool to Support Equitable Adoption of Electrified Transportation](https://ieeexplore.ieee.org/abstract/document/10919715/)**. *2024 IEEE 27th International Conference on Intelligent Transportation Systems*.
 
-- Gmeiner, R., & Harper, M. **[Artificial intelligence and economic planning](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *AI & SOCIETY*, 39(3).
+- Gmeiner, R., & Harper, M. **[Artificial intelligence and economic planning](https://link.springer.com/article/10.1007/s00146-022-01523-x)**. *AI & SOCIETY*, 39(3).
 
-- Bohlourihajar, K., & Harper, M. **[Catalyzing urban health and sustainability: The impact of electric bus fleet electrification in justice 40 communities of Salt Lake County](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2024 Forum for Innovative Sustainable Transportation Systems (FISTS)*.
+- Bohlourihajar, K., & Harper, M. **[Catalyzing urban health and sustainability: The impact of electric bus fleet electrification in justice 40 communities of Salt Lake County](https://ieeexplore.ieee.org/abstract/document/10485534/)**. *2024 Forum for Innovative Sustainable Transportation Systems (FISTS)*.
 
-- Lewis, B., Jones, S., Swenson, C., Moon, K., & Harper, M. **[Applying Machine Learning to Equatorial Plasma Bubble Now Casting on CubeSats](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**.
+- Lewis, B., Jones, S., Swenson, C., Moon, K., & Harper, M. **[Applying Machine Learning to Equatorial Plasma Bubble Now Casting on CubeSats](https://digitalcommons.usu.edu/smallsat/2024/all2024/36/)**.
 
 ## 2023
 
-- Kocabas, H., & Harper, M. **[Unknown Building Exploration via Frontier Incentivization under Various Communication Scenarios](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. 
+- Kocabas, H., & Harper, M. **[Unknown Building Exploration via Frontier Incentivization under Various Communication Scenarios](https://www.researchsquare.com/article/rs-3728635/latest)**. 
 
-- Allred, C., Pusey, J., & Harper, M. **[Detecting ballistic motions in quadruped robots: A boosted tree motif classifier for understanding reinforcement learning](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2023 Seventh IEEE International Conference on Robotic Computing (IRC)*, 143–151.
+- Allred, C., Pusey, J., & Harper, M. **[Detecting ballistic motions in quadruped robots: A boosted tree motif classifier for understanding reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10473572/)**. *2023 Seventh IEEE International Conference on Robotic Computing (IRC)*, 143–151.
 
-- Anderson, R., Anderson, T., Bailey, C., Anderson, J., & Harper, M. **[Stealth Centric A*: Bio-Inspired Navigation for Ground Robots](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2023 Seventh IEEE International Conference on Robotic Computing (IRC)*, 1–2.
+- Anderson, R., Anderson, T., Bailey, C., Anderson, J., & Harper, M. **[Stealth Centric A*: Bio-Inspired Navigation for Ground Robots](https://ieeexplore.ieee.org/abstract/document/10473553/)**. *2023 Seventh IEEE International Conference on Robotic Computing (IRC)*, 1–2.
 
-- Anderson, R., Anderson, J., Anderson, T., & Harper, M. **[Charger reservation web application](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 18, 100589.
+- Anderson, R., Anderson, J., Anderson, T., & Harper, M. **[Charger reservation web application](https://www.sciencedirect.com/science/article/pii/S2665963823001264)**. *Software Impacts*, 18, 100589.
 
-- Allred, C., Kocabas, H., & Harper, M. **[Unknown building exploration simulator (UBES)](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 18, 100576.
+- Allred, C., Kocabas, H., & Harper, M. **[Unknown building exploration simulator (UBES)](https://www.sciencedirect.com/science/article/pii/S2665963823001136)**. *Software Impacts*, 18, 100576.
 
-- Anderson, R., & Harper, M. **[Save Money, Get Charged: Facility-Tied Energy Management with Unknown and Unscheduled EV Charging](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2023 IEEE 26th International Conference on Intelligent Transportation Systems*.
+- Anderson, R., & Harper, M. **[Save Money, Get Charged: Facility-Tied Energy Management with Unknown and Unscheduled EV Charging](https://ieeexplore.ieee.org/abstract/document/10422276/)**. *2023 IEEE 26th International Conference on Intelligent Transportation Systems*.
 
-- Anderson, J., Anderson, R., Anderson, T., Bailey, C., & Harper, M. **[Stealth centric autonomous robot simulator (SCARS)](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 16, 100497.
+- Anderson, J., Anderson, R., Anderson, T., Bailey, C., & Harper, M. **[Stealth centric autonomous robot simulator (SCARS)](https://www.sciencedirect.com/science/article/pii/S2665963823000349)**. *Software Impacts*, 16, 100497.
 
 ## 2022
 
-- Allred, C., Kocabas, H., Harper, M., & Pusey, J. **[Terrain dependent power estimation for legged robots in unstructured environments](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2022 Sixth IEEE International Conference on Robotic Computing (IRC)*, 329–333.
+- Allred, C., Kocabas, H., Harper, M., & Pusey, J. **[Terrain dependent power estimation for legged robots in unstructured environments](https://ieeexplore.ieee.org/abstract/document/10023912/)**. *2022 Sixth IEEE International Conference on Robotic Computing (IRC)*, 329–333.
 
-- Anderson, R., Anderson, T., & Harper, M. **[Power and transportation collection and visualization](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 14, 100386.
+- Anderson, R., Anderson, T., & Harper, M. **[Power and transportation collection and visualization](https://www.sciencedirect.com/science/article/pii/S2665963822000859)**. *Software Impacts*, 14, 100386.
 
-- Bailey, C., Jones, B., Clark, M., Buck, R., & Harper, M. **[Electric vehicle autonomy: Realtime dynamic route planning and range estimation software](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2022 IEEE 25th International Conference on Intelligent Transportation Systems*.
+- Bailey, C., Jones, B., Clark, M., Buck, R., & Harper, M. **[Electric vehicle autonomy: Realtime dynamic route planning and range estimation software](https://ieeexplore.ieee.org/abstract/document/9922244/)**. *2022 IEEE 25th International Conference on Intelligent Transportation Systems*.
 
-- Kocabas, H., Allred, C., & Harper, M. **[Divide and survey: Observability through multi-drone city roadway coverage](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2022 IEEE International Smart Cities Conference (ISC2)*, 1–7.
+- Kocabas, H., Allred, C., & Harper, M. **[Divide and survey: Observability through multi-drone city roadway coverage](https://ieeexplore.ieee.org/abstract/document/9922207/)**. *2022 IEEE International Smart Cities Conference (ISC2)*, 1–7.
 
-- Shamma, Z.S., Jones, B., Clark, M., Bailey, C., & Harper, M. **[Electric vehicle range prediction estimator (EVPRE)](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 13, 100369.
+- Shamma, Z.S., Jones, B., Clark, M., Bailey, C., & Harper, M. **[Electric vehicle range prediction estimator (EVPRE)](https://www.sciencedirect.com/science/article/pii/S266596382200077X)**. *Software Impacts*, 13, 100369.
 
 ## 2021
 
-- Allred, C., Russell, M., Harper, M., & Pusey, J. **[Improving methods for multi-terrain classification beyond visual perception](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2021 Fifth IEEE International Conference on Robotic Computing (IRC)*, 96–99.
+- Allred, C., Russell, M., Harper, M., & Pusey, J. **[Improving methods for multi-terrain classification beyond visual perception](https://ieeexplore.ieee.org/abstract/document/9699886/)**. *2021 Fifth IEEE International Conference on Robotic Computing (IRC)*, 96–99.
 
-- Bailey, C., & Harper, M. **[Improving Real-Time Energy-Efficient Trajectory Planning Via Machine Learning](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *2021 Fifth IEEE International Conference on Robotic Computing (IRC)*, 50–55.
+- Bailey, C., & Harper, M. **[Improving Real-Time Energy-Efficient Trajectory Planning Via Machine Learning](https://ieeexplore.ieee.org/abstract/document/9699988/)**. *2021 Fifth IEEE International Conference on Robotic Computing (IRC)*, 50–55.
 
-- Harper, M., Ordonez, C., & Collins, E. **[SBMPO: Sampling based model predictive optimization for robot trajectory planning](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. *Software Impacts*, 10, 100159.
+- Harper, M., Ordonez, C., & Collins, E. **[SBMPO: Sampling based model predictive optimization for robot trajectory planning](https://www.sciencedirect.com/science/article/pii/S2665963821000671)**. *Software Impacts*, 10, 100159.
 
-- Gmeiner, R., & Harper, M. **[Artificial Intelligence and Economic Calculation](https://scholar.google.com/citations?user=6Qu1IVYAAAAJ)**. Methodist University (mimeo).
+- Gmeiner, R., & Harper, M. **[Artificial Intelligence and Economic Calculation](https://www.kennesaw.edu/coles/centers/markets-economic-opportunity/docs/gmeiner-082420.pdf)**. Methodist University (mimeo).
