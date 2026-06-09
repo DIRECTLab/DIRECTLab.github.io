@@ -1,4 +1,4 @@
-baseURL = 'https://directlab.github.io/'
+baseURL = 'https://directlab.dev/'
 locale = 'en-us'
 title = 'directlab@UtahState'
 theme = 'risotto'
