@@ -47,6 +47,16 @@ _fun fact:_ Chandler is the 2nd fastest typist in the lab (120 WPM).
 
 _contact:_ chandler.justice@usu.edu
 
+![](/jacob.jpeg)
+
+**Jacob Morrey** is pursuing a PhD in Electrical Engineering while pursuing research in neuromorphic machine learning and autonomous systems
+
+_interests:_ AI/ML, Robotics, Basketball, Guitar
+
+_fun fact:_ Jacob would like you to know that there are over 11,000 different species of ant
+
+_contact:_ jacob.morrey@usu.edu
+
 # Master's Students
 
 ![](/nate.jpg)
@@ -63,11 +73,11 @@ _contact_: n.w.nelson@usu.edu
 
 ![](/maggie.jpeg)
 
-**Maggie Michelsen** is working on a Bachelors in Computer Engineering. Maggies works on compute-limited spacecraft systems and implementing state-of-the-art algorithms and prediction models. 
+**Maggie Michelsen** is working on a Bachelors in Computer Engineering. Maggie works on compute-limited spacecraft systems and implementing state-of-the-art algorithms and prediction models. 
 
 _interests_: video games, reading, and tinkering with random electronic devices.
 
-_fun fact:_ served in many roles in USU IEEE's student branch, including president and conference chair.
+_fun fact:_ served in many roles in USU IEEE's student branch, including president and conference chair. prefers to play stardew valley on an old crt monitor when given the option.
 
 _contact:_ maggie.michelsen@usu.edu 
 
