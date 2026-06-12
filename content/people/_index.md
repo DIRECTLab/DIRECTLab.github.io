@@ -21,7 +21,7 @@ _Contact:_ mario.harper@usu.edu
 
 _interests:_ Digital Twinning, Embedded Devices, and Platform Development
 
-_fun fact:_ Max makes artisan homemade vinegar in his closet.
+_fun fact:_ Max makes artisan homemade vinega0r in his closet.
 
 _contact:_ max.ramsdell@usu.edu
 
@@ -49,13 +49,11 @@ _contact:_ chandler.justice@usu.edu
 
 ![](/jacob.jpeg)
 
-**Jacob Morrey** is pursuing a PhD in Electrical Engineering while pursuing research in neuromorphic machine learning and autonomous systems
+**Jacob Morrey** is pursuing a PhD in Electrical Engineering while working on research in neuromorphic machine learning, edge computing, and autonomous systems.
 
 _interests:_ AI/ML, Robotics, Basketball, Guitar
 
 _fun fact:_ Jacob would like you to know that there are over 11,000 different species of ant
-
-_contact:_ jacob.morrey@usu.edu
 
 # Master's Students
 
@@ -68,6 +66,14 @@ _interests:_ Neomorphic vision processing, high-speed decision making, and catch
 _fun fact:_ Nate is the best cook (_self attributed_), second-best Smash Bros player (_self attributed_), and third-worst programmer in the lab (_self attributed_). 
 
 _contact_: n.w.nelson@usu.edu
+
+![](/ishara.jpg)
+
+**Ishara Mawelle Kankanamge** is pursuing an MSc in Data Science and works on full stack development and MLOps in the lab.
+
+*interests:* Building systems and data science.
+
+*fun fact:* Ishara is good at cooking!
 
 # Undergraduate Students
 
@@ -121,6 +127,29 @@ _fun fact:_ Ammon enjoys competing at rock climbing competitions (bouldering)
 
 _contact:_ a02356342@usu.edu
 
+![](/michael.jpg)
+
+**Michael Harris** is chasing a Bachelors in Human Experience Design and Interaction. His recent work has been on activity intelligence where he has excelled at reading documentation and doing mean things to GPUs. Lately he has taken an interest in trains.
+
+_interests_: Robotics, sensors, building new weird things
+
+_fun fact:_ He is decent at knitting
+
+![](/ryan.jpg)
+
+**Ryan Austin** is pursuing a Bachelors in Computer Science and works on software engineering for intelligent systems.
+
+_interests:_ Magic: The Gathering and tanks.
+
+_fun fact:_ Ryan can do a variety of pretty good voice impressions.
+
+![](/joel.jpg)
+
+**Joel Eppich** is a junior pursuing a Bachelors in Computer Engineering and works on neuromorphic computing research in the lab.
+
+*interests:* Gaming, cars, working out, and bowling.
+
+*fun fact:* Nokia used to sell toilet paper before making phones.
 
 # Alumni
 
@@ -141,3 +170,13 @@ _contact:_ christopher.allred@usu.edu
 _interests:_ The outdoors, sports/games, learning everything.
 
 _fun fact:_ Zac is the fastest man in the lab! (As of 2025)
+
+![](/kyler.jpeg)
+
+**Kyler Nelson** completed his Master's in Computer Science while working on on satellite ship detection and the CARLA simulation project at ASPIRE.
+
+_interests:_ Machine Learning, Reinforcement Learning, decision-making under uncertainty, robotics, and high-performance computing.
+
+_fun fact:_ Kyler started playing Pickleball before its COVID popularity boom and occasionally teaches piano students.
+
+Kyler now works as a Software Engineer at Adobe on the Adobe Analytics team, with recent work focused on semantic search and vector embeddings.
