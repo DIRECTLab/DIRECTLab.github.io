@@ -7,7 +7,7 @@ We value diligent effort, with a healthy dose of fun. If you have an interest in
 
 # Faculty
 
-![](/mario.jpg)
+![](/images/profiles/mario.jpg)
 
 **Dr. Mario Harper** founded the DIRECT lab in 2021. He has experience across a swath of domains including Artificial Intelligence, Robotics, Power Systems, Financial Technologies, and pretty much everything else. Mario usually wears a beret, which the photo above unfortunately fails to capture.
 
@@ -15,19 +15,19 @@ _Contact:_ mario.harper@usu.edu
 
 # Staff
 
-![](/max.jpg)
+![](/images/profiles/max.jpg)
 
 **Max Ramsdell** has graduated from Utah State with a Masters in Computer Science and continues to support our lab in a staff capacity. Max serves as the Project Manager and primary Platform Developer for the lab's power electronics and electrified transportation efforts.
 
 _interests:_ Digital Twinning, Embedded Devices, and Platform Development
 
-_fun fact:_ Max makes artisan homemade vinegar in his closet.
+_fun fact:_ Max makes artisan homemade vinega0r in his closet.
 
 _contact:_ max.ramsdell@usu.edu
 
 # PhD Students
 
-![](/isaac.jpeg)
+![](/images/profiles/isaac.jpg)
 
 **Isaac Peterson** is pursuing a PhD in Electrical Engineering. Isaac focuses on simulation development utilizing IsaacSim/IsaacLab to explore reinforcement learning applied to robots in a simulation environment and bridging the sim-to-real gap. In Isaac's free time he plays super smash. 
 
@@ -37,7 +37,7 @@ _fun fact_: Isaac can unicycle
 
 _Contact:_ isaac.peterson@usu.edu
 
-![](/chandler.JPEG)
+![](/images/profiles/chandler.jpg)
 
 **Chandler Justice** is probably doing a PhD in Electric Engineering. Chandler focuses on robot swarming and advancements in Multi-agent robot autonomy. Chandler also works on electrified transportation projects pertaining to energy systems and electric aviation.
 
@@ -47,9 +47,17 @@ _fun fact:_ Chandler is the 2nd fastest typist in the lab (120 WPM).
 
 _contact:_ chandler.justice@usu.edu
 
+![](/images/profiles/jacob.jpg)
+
+**Jacob Morrey** is pursuing a PhD in Electrical Engineering while working on research in neuromorphic machine learning, edge computing, and autonomous systems.
+
+_interests:_ AI/ML, Robotics, Basketball, Guitar
+
+_fun fact:_ Jacob would like you to know that there are over 11,000 different species of ant
+
 # Master's Students
 
-![](/nate.jpg)
+![](/images/profiles/nate.jpg)
 
 **Nathan Nelson** is completing a Master's in Data Science and works on Neomorphic computer vision and is a post-hoc technical recruiter. 
 
@@ -59,19 +67,27 @@ _fun fact:_ Nate is the best cook (_self attributed_), second-best Smash Bros pl
 
 _contact_: n.w.nelson@usu.edu
 
+![](/images/profiles/ishara.jpg)
+
+**Ishara Mawelle Kankanamge** is pursuing an MSc in Data Science and works on full stack development and MLOps in the lab.
+
+*interests:* Building systems and data science.
+
+*fun fact:* Ishara is good at cooking!
+
 # Undergraduate Students
 
-![](/maggie.jpeg)
+![](/images/profiles/maggie.jpg)
 
-**Maggie Michelsen** is working on a Bachelors in Computer Engineering. Maggies works on compute-limited spacecraft systems and implementing state-of-the-art algorithms and prediction models. 
+**Maggie Michelsen** is working on a Bachelors in Computer Engineering. Maggie works on compute-limited spacecraft systems and implementing state-of-the-art algorithms and prediction models. 
 
 _interests_: video games, reading, and tinkering with random electronic devices.
 
-_fun fact:_ served in many roles in USU IEEE's student branch, including president and conference chair.
+_fun fact:_ served in many roles in USU IEEE's student branch, including president and conference chair. prefers to play stardew valley on an old crt monitor when given the option.
 
 _contact:_ maggie.michelsen@usu.edu 
 
-![](/nash.JPG)
+![](/images/profiles/nash.jpg)
 
 **Nash Bryce** is actively willing a Bachelors in Electrical Engineering. Nash works on the activity intelligence team focusing on collecting data for airplane positions and building tools to parse that data into useable context for LLMs.
 
@@ -81,7 +97,7 @@ _fun fact:_ Nash has a mini green house and a dozen different plant species.
 
 _contact:_ A02424834@usu.edu
 
-![](/david.jpg)
+![](/images/profiles/david.jpg)
 
 **David Templeton** is gunning for a Bachelors in Computer Science and operates as a software engineer in the Activity Intelligence group. 
 
@@ -91,7 +107,7 @@ _fun fact:_ David played the tuba in high school.
 
 _contact:_ Templeton.Templeton@usu.edu
 
-![](/daxton.jpeg)
+![](/images/profiles/daxton.jpg)
 
 **Daxton Broadhead** is doing everything he can to get a Bachelors in Electrical Engineering. Daxton works under the activity intelligence group doing software development.
 
@@ -101,7 +117,7 @@ _fun fact:_ The background picture on Daxton's computer is of Big Chungus
 
 _contact:_ a02295257@aggies.usu.edu
 
-![](/ammon.png)
+![](/images/profiles/ammon.png)
 
 **Ammon Hunter** is going for gold in his pursuit of a Bachelors in Computer Science. Ammon currently focuses on iterating on SLAM algorithms for drones and is involved in multi-agent SLAM project currently in progress.
 
@@ -111,10 +127,33 @@ _fun fact:_ Ammon enjoys competing at rock climbing competitions (bouldering)
 
 _contact:_ a02356342@usu.edu
 
+![](/images/profiles/michael.jpg)
+
+**Michael Harris** is chasing a Bachelors in Human Experience Design and Interaction. His recent work has been on activity intelligence where he has excelled at reading documentation and doing mean things to GPUs. Lately he has taken an interest in trains.
+
+_interests_: Robotics, sensors, building new weird things
+
+_fun fact:_ He is decent at knitting
+
+![](/images/profiles/ryan.jpg)
+
+**Ryan Austin** is pursuing a Bachelors in Computer Science and works on software engineering for intelligent systems.
+
+_interests:_ Magic: The Gathering and tanks.
+
+_fun fact:_ Ryan can do a variety of pretty good voice impressions.
+
+![](/images/profiles/joel.jpg)
+
+**Joel Eppich** is a junior pursuing a Bachelors in Computer Engineering and works on neuromorphic computing research in the lab.
+
+*interests:* Gaming, cars, working out, and bowling.
+
+*fun fact:* Nokia used to sell toilet paper before making phones.
 
 # Alumni
 
-![](/christopher.jpeg)
+![](/images/profiles/christopher.jpg)
 
 **Christopher Allred** completed his PhD in Computer Science in December 2025. His research focused on Multi-agent systems, reinforcement learning, and ballistic motions of legged robots. Christopher now works at Alpha-Z as a roboticist.
 
@@ -124,10 +163,20 @@ _fun fact:_ Christopher loves watermelon
 
 _contact:_ christopher.allred@usu.edu
 
-![](/zac.jpg)
+![](/images/profiles/zac.jpg)
 
 **Zac Maughan** Completed his Bachelors in Computer Engineering in May 2026. Zac played a "flex" role in the lab and filled in for research projects as needed including CARLA, DREAMS, and the Rosbots (rovers). Zac now works as a Software Engineer at OrthoSelect.
 
 _interests:_ The outdoors, sports/games, learning everything.
 
 _fun fact:_ Zac is the fastest man in the lab! (As of 2025)
+
+![](/images/profiles/kyler.jpg)
+
+**Kyler Nelson** completed his Master's in Computer Science while working on on satellite ship detection and the CARLA simulation project at ASPIRE.
+
+_interests:_ Machine Learning, Reinforcement Learning, decision-making under uncertainty, robotics, and high-performance computing.
+
+_fun fact:_ Kyler started playing Pickleball before its COVID popularity boom and occasionally teaches piano students.
+
+Kyler now works as a Software Engineer at Adobe on the Adobe Analytics team, with recent work focused on semantic search and vector embeddings.
