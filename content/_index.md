@@ -30,6 +30,14 @@ USU’s DIRECT lab covers a vast swath of research: Decision Intelligence, Robot
 
 # News
 
+ - _June 2026:_ Our paper "A Framework for Scalable Heterogeneous Multi-Agent Adversarial Reinforcement Learning in IsaacLab" by Isaac Peterson, Christopher Allred, Jacob Morrey and Mario Harper was accepted into IROS 2026! You can read the preprint [here](https://arxiv.org/pdf/2510.01264).
+
+ - _June 2026:_ Our poster "eVTOL for Regional Travel in the State of Utah" by Chandler Justice and Mario Harper was accepted into the ITSC 2026 Late Breaking poster session 
+
+ - _April 2026:_ Our paper "Multi-modal Detection and Attribution Algorithm for Low Power Edge Compute Hardware" by Maggie Michelsen, Jackson Gardner, Shawn Jones, Jackson Kulik, and Mario Harper was accepted into SmallSat2026. 
+
+ - _April 2026:_ Our paper "Advanced AI Deployment on SmallSats: A Mixed-Precision Approach" by Maggie Michelsen, Jackson Gardner, Shawn Jones, Jackson Kulik, and Mario Harper was accepted into SmallSat2026. 
+
  - _March 2026:_ Dr. Mario Harper received the _Researcher of the Year_ award from the Department of Electrical and Computer Engineering at Utah State.
 
  - _Dec 2025:_ Christopher Allred has successfully defended his PhD dissertation _Adversarial Heterogeneous Agent Learning for Robotic Systems:
